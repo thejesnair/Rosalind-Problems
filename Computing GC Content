@@ -1,0 +1,24 @@
+rosalind_6404 = "CCTGCGGAAGATCGGCACTAGAATAGCCAGAACCGTTTCTCTGAGGCTTCCGGCCTTCCCTCCCACTAATAATTCTGAGG"
+rosalind_5959 = "CCATCGGTAGCGCATCCTTAGTCCAATTAAGTCCCTATCCAGGCGCTCCGCCGAAGGTCTATATCCATTTGTCAGCAGACACGC"
+rosalind_0808 = "CCACCCTCGTGGTATGGCTAGGCATTCAGGAACCGGAGAACGCTTCAGACCAGCCCGGACTGGGAACCTGCGGGCAGTAGGTGGAAT"
+
+def GC_content(sequence):
+    G=0
+    C=0
+    total_bases = 0
+    for nucleobase in sequence:
+        total_bases += 1
+        if nucleobase == "G":
+            G += 1
+        elif nucleobase == "C":
+            C += 1
+        else:
+            continue
+    return ((G+C)/total_bases*100)
+
+GC_dict = {'rosalind_6404': GC_content(rosalind_6404), \
+           'rosalind_5959': GC_content(rosalind_5959), \
+           'rosalind_0808': GC_content(rosalind_0808)}
+
+print(GC_dict)
+print(max(GC_dict.items(), key=lambda x:x[1]))
