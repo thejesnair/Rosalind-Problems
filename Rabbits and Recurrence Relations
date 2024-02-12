@@ -1,0 +1,11 @@
+def rabbits_present(months, litter):
+    F1 = 1
+    F2 = 1 #constants
+    for n in range(months - 2): #rabbits reach reproductive age after one month 
+        F3 = F1*litter+F2 #1*3+1=4 rabbits starting one pair
+        #The number of offspring in any month is EQUAL to the number of rabbits that were alive two months prior.
+        F1 = F2 
+        F2 = F3
+    return F3
+
+print(rabbits_present(32,3))
