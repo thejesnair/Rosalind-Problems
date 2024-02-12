@@ -1,0 +1,8 @@
+genome = "GATGGAACTTGACTACGTAAATT"
+RNA = ""
+
+for nucleobase in genome:
+    if nucleobase == "T":
+        RNA = genome.replace("T", "U")
+
+print(RNA)
