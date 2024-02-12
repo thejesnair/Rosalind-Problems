@@ -1,5 +1,5 @@
 # Rosalind-Problems
-This repository contains my solutions for bioinformatics related problems on Rosalind.
+This repository contains my solutions for bioinformatics related problems on Rosalind. Solutions are either formatted to work with example problem, or with dataset.
 
 1. Counting DNA Nucleotides
 2. Transcribing DNA into RNA
