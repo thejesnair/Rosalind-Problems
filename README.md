@@ -2,17 +2,6 @@
 This repository contains my solutions for bioinformatics problems from the 'Bioinformatics Stronghold' on Rosalind. 
 Solutions are either formatted to work with example problem, or with dataset.
 
-1. Counting DNA Nucleotides
-2. Transcribing DNA into RNA
-3. Complementing a Strand of DNA
-4. Rabbits and Recurrence Relations
-5. Computing GC Content
-6. Counting Point Mutations
-7. Mendel's First Law
-8. Translating RNA into Protein
-9. Finding a Motif in DNA
-
-
 | ID   | Title   | Description   |
 | ---- | ------- | ------------- |
 | DNA  | [Counting DNA Nucleotides](https://github.com/thejesnair/Rosalind-Problems/blob/main/Counting%20DNA%20Nucleotides) | Counting the number of each nucleotide in a string of DNA
