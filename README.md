@@ -15,7 +15,7 @@ Solutions are either formatted to work with example problem, or with dataset.
 
 | ID   | Title   | Description   |
 | ---- | ------- | ------------- |
-| DNA  | Counting DNA Nucleotides | Counting the number of each nucleotide in a string of DNA
+| DNA  | [Counting DNA Nucleotides](https://github.com/thejesnair/Rosalind-Problems/blob/main/Counting%20DNA%20Nucleotides) | Counting the number of each nucleotide in a string of DNA
 | RNA | Transcribing DNA into RNA | Given a DNA string, transcribe it into the corresponding RNA string
 | REVC | Complementing a Strand of DNA | Given a DNA string, output the reverse complement
 | FIB | Rabbits and Recurrence Relations | Total number of rabbits in population after n months, starting with 1 pair producing litter of k pairs
