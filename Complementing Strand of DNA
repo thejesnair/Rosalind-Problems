@@ -1,4 +1,10 @@
-DNA = "AAAACCCGGT"
+#test
+#test_DNA = "AAAACCCGGT"
+
+#dataset
+file = open('rosalind_revc_1_dataset.txt', 'r')
+DNA = file.read()
+file.close()
 
 def reverse(DNA):
     DNA = DNA[::-1]
