@@ -1,7 +1,8 @@
 # Rosalind-Problems
-This repository contains my solutions for bioinformatics problems from the 'Bioinformatics Stronghold' on Rosalind. 
+This repository contains my solutions for bioinformatics problems from the 'Bioinformatics Stronghold', 'Bioinformatics Armory', and 'Algorithmic Heights' problem sets on Rosalind. 
 Solutions are either formatted to work with example problem or with dataset.
 
+#Bioinformatics Stronghold
 | ID   | Title   | Description   |
 | ---- | ------- | ------------- |
 | DNA  | [Counting DNA Nucleotides](https://github.com/thejesnair/Rosalind-Problems/blob/main/Counting%20DNA%20Nucleotides) | Counting the number of each nucleotide in a string of DNA
