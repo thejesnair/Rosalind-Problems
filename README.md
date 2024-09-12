@@ -5,7 +5,7 @@ Solutions are either formatted to work with example problem or with dataset.
 # Bioinformatics Stronghold
 | ID   | Title   | Description   |
 | ---- | ------- | ------------- |
-| DNA  | [Counting DNA Nucleotides](https://github.com/thejesnair/Rosalind-Problems/blob/main/Counting%20DNA%20Nucleotides) | Counting the number of each nucleotide in a string of DNA
+| DNA  | [Counting DNA Nucleotides](https://github.com/thejesnair/Rosalind-Problems/blob/1ad39dec63cbb07e85192bee122d3bb03969e41a/Complementing%20Strand%20of%20DNA.py) | Counting the number of each nucleotide in a string of DNA
 | RNA | [Transcribing DNA into RNA](https://github.com/thejesnair/Rosalind-Problems/blob/main/Transcribing%20DNA%20into%20RNA) | Given a DNA string, transcribe it into the corresponding RNA string
 | REVC | [Complementing a Strand of DNA](https://github.com/thejesnair/Rosalind-Problems/blob/main/Complementing%20Strand%20of%20DNA) | Given a DNA string, output the reverse complement
 | FIB | [Rabbits and Recurrence Relations](https://github.com/thejesnair/Rosalind-Problems/blob/main/Rabbits%20and%20Recurrence%20Relations) | Total number of rabbits in population after n months, starting with 1 pair producing litter of k pairs
