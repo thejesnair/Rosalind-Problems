@@ -30,12 +30,12 @@ Solutions are either formatted to work with example problem or with dataset.
 # Bioinformatics Armory
 | ID   | Title   | Description   |
 | ---- | ------- | ------------- |
-| INI | [Introduction to the Bioinformatics Armory]() | Count number of times bases occur in DNA string
-| GBK | [GenBank Introduction]() | Find number of GenBank entries for given genus published between set of dates
-| FRMT | [Data Formats]() | Return shortest string associated with collection of GenBank IDs
-| TFSQ | [FASTQ Format Introduction]() | Return corresponding FASTA record given FASTQ file
-| PTRA | [Protein Translation]() | Return index of genetic code varaint used for translation of protein string
-| RVCO | [Complementing a Strand of DNA]() | Number of strings that match reverse complements
+| INI | [Introduction to the Bioinformatics Armory](https://github.com/thejesnair/Rosalind-Problems/blob/59aed55536d3763f0531f907364f771838031788/Intro%20to%20Bioinformatics%20Armory.py) | Count number of times bases occur in DNA string
+| GBK | [GenBank Introduction](https://github.com/thejesnair/Rosalind-Problems/blob/59aed55536d3763f0531f907364f771838031788/GenBank%20Intro.py) | Find number of GenBank entries for given genus published between set of dates
+| FRMT | [Data Formats](https://github.com/thejesnair/Rosalind-Problems/blob/59aed55536d3763f0531f907364f771838031788/Data%20Formats.py) | Return shortest string associated with collection of GenBank IDs
+| TFSQ | [FASTQ Format Introduction](https://github.com/thejesnair/Rosalind-Problems/blob/59aed55536d3763f0531f907364f771838031788/FASTQ%20Format%20Intro.py) | Return corresponding FASTA record given FASTQ file
+| PTRA | [Protein Translation](https://github.com/thejesnair/Rosalind-Problems/blob/59aed55536d3763f0531f907364f771838031788/Protein%20Translation.py) | Return index of genetic code varaint used for translation of protein string
+| RVCO | [Complementing a Strand of DNA](https://github.com/thejesnair/Rosalind-Problems/blob/59aed55536d3763f0531f907364f771838031788/DNA%20Strand%20Complement.py) | Number of strings that match reverse complements
 
 
 
