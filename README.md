@@ -30,5 +30,13 @@ Solutions are either formatted to work with example problem or with dataset.
 # Bioinformatics Armory
 | ID   | Title   | Description   |
 | ---- | ------- | ------------- |
+| INI | [Introduction to the Bioinformatics Armory]() | Count number of times bases occur in DNA string
+| GBK | [GenBank Introduction]() | Find number of GenBank entries for given genus published between set of dates
+| FRMT | [Data Formats]() | Return shortest string associated with collection of GenBank IDs
+| TFSQ | [FASTQ Format Introduction]() | Return corresponding FASTA record given FASTQ file
+| PTRA | [Protein Translation]() | Return index of genetic code varaint used for translation of protein string
+| RVCO | [Complementing a Strand of DNA]() | Number of strings that match reverse complements
+
+
 
 # Algorithmic Heights
