@@ -25,7 +25,7 @@ Solutions are either formatted to work with example problem or with dataset.
 | SPLC | [RNA Splicing]() | Given DNA string, and introns, transcribe and translate exons into protein string
 | LEXF | [Enumerating k-mers Lexicographically]() | Return strings of length n, ordered lexicographically, given collection of alphabet
 | PMCH | [Perfect Matchings and RNA Secondary Structures]() | Determine total number of perfect matchings of basepair edges in bonding graph of given string
-| TRAN | [Transitions and Transversion]() | Given two DNA strings, return the transition/transversion ratio
+| TRAN | [Transitions and Transversions]() | Given two DNA strings, return the transition/transversion ratio
 
 # Bioinformatics Armory
 
