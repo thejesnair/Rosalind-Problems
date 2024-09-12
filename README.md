@@ -40,3 +40,6 @@ Solutions are either formatted to work with example problem or with dataset.
 
 
 # Algorithmic Heights
+| ID   | Title   | Description   |
+| ---- | ------- | ------------- |
+| FIBO | [Fibonacci Numbers]() | Given n, return value of Fn
