@@ -14,7 +14,18 @@ Solutions are either formatted to work with example problem or with dataset.
 | IPRB | [Mendel's First Law](https://github.com/thejesnair/Rosalind-Problems/blob/main/Mendel's%20First%20Law) | Given k, m, n representing genotype, output probability mating organisms will have dominant allele
 | PROT | [Translating RNA into Protein](https://github.com/thejesnair/Rosalind-Problems/blob/main/Translating%20RNA%20into%20Protein) | Output protein string encoded by mRNA string
 | SUBS | [Finding a Motif in DNA](https://github.com/thejesnair/Rosalind-Problems/blob/main/Finding%20a%20Motif%20in%20DNA) | Given two strings, return locations of all substring in main string
-
+| CONS | [Consensus and Profile]() | Given DNA strings, return a consensus string and profile matrix
+| FIBD | [Mortal Fibonacci Rabbits]() | Output total number of rabbit pairs after n-th month, given they live for m months
+| GRPH | [Overlap Graphs]() | Return an adjacency list
+| IEV | [Calculating Expected Offspring]() | Expected number of offspring displaying dominant phenotype
+| LCSM | [Finding a Shared Motif]() | Given two strings, find locations of t as substring of s
+| LIA | [Independent Alleles]() | Probability that at least N AaBb organisms belong to k-th generation
+| PERM | [Enumerating Gene Orders]() | Return the total number and list of permutations of length n
+| PRTM | [Calculating Protein Mass]() | Output total weight of protein, given protein string
+| SPLC | [RNA Splicing]() | Given DNA string, and introns, transcribe and translate exons into protein string
+| LEXF | [Enumerating k-mers Lexicographically]() | Return strings of length n, ordered lexicographically, given collection of alphabet
+| PMCH | [Perfect Matchings and RNA Secondary Structures]() | Determine total number of perfect matchings of basepair edges in bonding graph of given string
+| TRAN | [Transitions and Transversion]() | Given two DNA strings, return the transition/transversion ratio
 
 # Bioinformatics Armory
 
