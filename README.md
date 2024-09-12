@@ -1,5 +1,5 @@
 # Rosalind-Problems
-This repository contains my solutions for bioinformatics problems from the 'Bioinformatics Stronghold', 'Bioinformatics Armory', and 'Algorithmic Heights' problem sets on Rosalind. 
+This repository contains my solutions for bioinformatics problems from the 'Bioinformatics Stronghold', 'Bioinformatics Armory', and 'Algorithmic Heights' problem sets on [Rosalind](https://rosalind.info/problems/locations/). 
 Solutions are either formatted to work with example problem or with dataset.
 
 # Bioinformatics Stronghold
