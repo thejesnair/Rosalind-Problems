@@ -2,7 +2,7 @@
 This repository contains my solutions for bioinformatics problems from the 'Bioinformatics Stronghold', 'Bioinformatics Armory', and 'Algorithmic Heights' problem sets on Rosalind. 
 Solutions are either formatted to work with example problem or with dataset.
 
-#Bioinformatics Stronghold
+# Bioinformatics Stronghold
 | ID   | Title   | Description   |
 | ---- | ------- | ------------- |
 | DNA  | [Counting DNA Nucleotides](https://github.com/thejesnair/Rosalind-Problems/blob/main/Counting%20DNA%20Nucleotides) | Counting the number of each nucleotide in a string of DNA
@@ -14,3 +14,9 @@ Solutions are either formatted to work with example problem or with dataset.
 | IPRB | [Mendel's First Law](https://github.com/thejesnair/Rosalind-Problems/blob/main/Mendel's%20First%20Law) | Given k, m, n representing genotype, output probability mating organisms will have dominant allele
 | PROT | [Translating RNA into Protein](https://github.com/thejesnair/Rosalind-Problems/blob/main/Translating%20RNA%20into%20Protein) | Output protein string encoded by mRNA string
 | SUBS | [Finding a Motif in DNA](https://github.com/thejesnair/Rosalind-Problems/blob/main/Finding%20a%20Motif%20in%20DNA) | Given two strings, return locations of all substring in main string
+
+
+# Bioinformatics Armory
+
+
+# Algorithmic Heights
