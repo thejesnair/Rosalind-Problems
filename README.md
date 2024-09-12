@@ -42,4 +42,4 @@ Solutions are either formatted to work with example problem or with dataset.
 # Algorithmic Heights
 | ID   | Title   | Description   |
 | ---- | ------- | ------------- |
-| FIBO | [Fibonacci Numbers]() | Given n, return value of Fn
+| FIBO | [Fibonacci Numbers](https://github.com/thejesnair/Rosalind-Problems/blob/7008ff8c9e488360e9bc37173e1e420598b8e092/Fibonacci%20Numbers.py) | Given n, return value of Fn
