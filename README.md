@@ -28,6 +28,7 @@ Solutions are either formatted to work with example problem or with dataset.
 | TRAN | [Transitions and Transversions](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Transitions%20and%20Transversions.py) | Given two DNA strings, return the transition/transversion ratio
 
 # Bioinformatics Armory
-
+| ID   | Title   | Description   |
+| ---- | ------- | ------------- |
 
 # Algorithmic Heights
