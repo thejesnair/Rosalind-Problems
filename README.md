@@ -14,18 +14,18 @@ Solutions are either formatted to work with example problem or with dataset.
 | IPRB | [Mendel's First Law](https://github.com/thejesnair/Rosalind-Problems/blob/10cae04d7d698120734c1b00982964d0ee86d7cc/Mendel's%20First%20Law.py) | Given k, m, n representing genotype, output probability mating organisms will have dominant allele
 | PROT | [Translating RNA into Protein](https://github.com/thejesnair/Rosalind-Problems/blob/10cae04d7d698120734c1b00982964d0ee86d7cc/Translating%20RNA%20into%20Protein.py) | Output protein string encoded by mRNA string
 | SUBS | [Finding a Motif in DNA](https://github.com/thejesnair/Rosalind-Problems/blob/10cae04d7d698120734c1b00982964d0ee86d7cc/Finding%20a%20Motif%20in%20DNA.py) | Given two strings, return locations of all substring in main string
-| CONS | [Consensus and Profile]() | Given DNA strings, return a consensus string and profile matrix
-| FIBD | [Mortal Fibonacci Rabbits]() | Output total number of rabbit pairs after n-th month, given they live for m months
-| GRPH | [Overlap Graphs]() | Return an adjacency list
-| IEV | [Calculating Expected Offspring]() | Expected number of offspring displaying dominant phenotype
-| LCSM | [Finding a Shared Motif]() | Given two strings, find locations of t as substring of s
-| LIA | [Independent Alleles]() | Probability that at least N AaBb organisms belong to k-th generation
-| PERM | [Enumerating Gene Orders]() | Return the total number and list of permutations of length n
-| PRTM | [Calculating Protein Mass]() | Output total weight of protein, given protein string
-| SPLC | [RNA Splicing]() | Given DNA string, and introns, transcribe and translate exons into protein string
-| LEXF | [Enumerating k-mers Lexicographically]() | Return strings of length n, ordered lexicographically, given collection of alphabet
-| PMCH | [Perfect Matchings and RNA Secondary Structures]() | Determine total number of perfect matchings of basepair edges in bonding graph of given string
-| TRAN | [Transitions and Transversions]() | Given two DNA strings, return the transition/transversion ratio
+| CONS | [Consensus and Profile](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Consensus%20and%20Profile.py) | Given DNA strings, return a consensus string and profile matrix
+| FIBD | [Mortal Fibonacci Rabbits](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Mortal%20Fibonacci%20Rabbits.py) | Output total number of rabbit pairs after n-th month, given they live for m months
+| GRPH | [Overlap Graphs](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Overlap%20Graphs.py) | Return an adjacency list
+| IEV | [Calculating Expected Offspring](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Calculating%20Expected%20Offspring.py) | Expected number of offspring displaying dominant phenotype
+| LCSM | [Finding a Shared Motif](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Finding%20a%20Shared%20Motif.py) | Given two strings, find locations of t as substring of s
+| LIA | [Independent Alleles](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Independent%20Alleles.py) | Probability that at least N AaBb organisms belong to k-th generation
+| PERM | [Enumerating Gene Orders](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Enumerating%20Gene%20Orders.py) | Return the total number and list of permutations of length n
+| PRTM | [Calculating Protein Mass](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Calculating%20Protein%20Mass.py) | Output total weight of protein, given protein string
+| SPLC | [RNA Splicing](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/RNA%20Splicing.py) | Given DNA string, and introns, transcribe and translate exons into protein string
+| LEXF | [Enumerating k-mers Lexicographically](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Enumerating%20k-mers%20Lexicographically.py) | Return strings of length n, ordered lexicographically, given collection of alphabet
+| PMCH | [Perfect Matchings and RNA Secondary Structures](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Perfect%20Matchings%20and%20RNA%20Secondary%20Structures.py) | Determine total number of perfect matchings of basepair edges in bonding graph of given string
+| TRAN | [Transitions and Transversions](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Transitions%20and%20Transversions.py) | Given two DNA strings, return the transition/transversion ratio
 
 # Bioinformatics Armory
 
