@@ -9,6 +9,8 @@ A and T to (1-x)/2
     if GC-content is 40%, next symbol is G/C with prob of 0.2 and next symbol is A/T with prob of 0.3
 
 Use log function to make comparison easier.
+
+code partially adapted from unknown source
 """
 from math import log10
 
