@@ -28,6 +28,7 @@ Solutions are either formatted to work with example problem or with dataset.
 | TRAN | [Transitions and Transversions](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Transitions%20and%20Transversions.py) | Given two DNA strings, return the transition/transversion ratio
 | PROB | [Introduction to Random Strings](https://github.com/thejesnair/Rosalind-Problems/blob/main/Intro%20to%20Random%20Strings.py) | Return array of probability that a random string constructed with the GC-content found in array will match DNA string exactly
 | MRNA | [Inferring mRNA from Protein](https://github.com/thejesnair/Rosalind-Problems/blob/main/Inferring%20mRNA%20from%20Protein.py) | Given protein string, return total number of RNA strings modulo 1E6
+| PPER | [Partial Permutations](https://github.com/thejesnair/Rosalind-Problems/blob/main/Partial%20Permutations.py) | Given n,k determine the total number of partial permutations modulo 1E6
 
 # Bioinformatics Armory
 | ID   | Title   | Description   |
