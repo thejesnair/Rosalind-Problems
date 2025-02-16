@@ -15,7 +15,6 @@ from math import log10
 with open('rosalind_prob.txt') as input_data:
     dna, gc_content = input_data.readlines() #given DNA string, array 
 
-
 gc_content = map(float, gc_content.split()) #map() applies fxn to every item of iterable
 
 codon_count = [0,0]
