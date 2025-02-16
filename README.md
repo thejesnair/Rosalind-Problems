@@ -27,6 +27,7 @@ Solutions are either formatted to work with example problem or with dataset.
 | PMCH | [Perfect Matchings and RNA Secondary Structures](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Perfect%20Matchings%20and%20RNA%20Secondary%20Structures.py) | Determine total number of perfect matchings of basepair edges in bonding graph of given string
 | TRAN | [Transitions and Transversions](https://github.com/thejesnair/Rosalind-Problems/blob/ee046fd47b08c4d5e9e05b555aae52f175d6abdf/Transitions%20and%20Transversions.py) | Given two DNA strings, return the transition/transversion ratio
 | PROB | [Introduction to Random Strings](https://github.com/thejesnair/Rosalind-Problems/blob/main/Intro%20to%20Random%20Strings.py) | Return array of probability that a random string constructed with the GC-content found in array will match DNA string exactly
+| MRNA | [Inferring mRNA from Protein](https://github.com/thejesnair/Rosalind-Problems/blob/main/Inferring%20mRNA%20from%20Protein.py) | Given protein string, return total number of RNA strings modulo 1E6
 
 # Bioinformatics Armory
 | ID   | Title   | Description   |
